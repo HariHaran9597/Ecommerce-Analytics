@@ -1,0 +1,5 @@
+stage,customers,pct_of_total
+Delivered order,96478,97.02
+Placed any order,99441,100.0
+Registered customers,99441,100.0
+Repeat purchasers (>1 order),0,0.0
