@@ -50,15 +50,7 @@ Methodology notes
 - Retention: cohorts defined by customers' first purchase month; retention counts are monthly offsets from cohort.
 - Segments: median/mean revenue benchmarks produce `High/Medium/Low Value` tiers and action-oriented labels.
 
-Resume-friendly blurb (copy to resume/LinkedIn)
-------------------------------------------------
-Performed end-to-end ecommerce analytics on multi-table dataset (customers, orders, payments, order_items). Implemented SQL pipelines for funnel approximation, cohort retention, revenue concentration, and segmentation; produced reproducible outputs and visuals using DuckDB and Python. Key insight: top 20% of customers drive ~53% of revenue — prioritized retention strategies improved ROI.
 
-Suggested follow-ups (high impact)
----------------------------------
-- Add an EDA notebook (`analysis.ipynb`) with narrative and charts for hiring portfolios.
-- Implement a repeat-purchase / churn predictive model and include feature engineering and evaluation.
-- Package a small Streamlit app or interactive dashboard for stakeholder demo.
 
 Contact / Reproduce
 -------------------
